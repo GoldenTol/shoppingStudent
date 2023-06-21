@@ -1,0 +1,56 @@
+# 샵은 주석으로 인식합니다.
+# command 목록을 적어놓은 곳
+home=com.shopping.controller.product.ProductListController
+# 회원은 me / 뒤에 붙는 단어의 첫글자는 대문자 / 클래스 이름은 첫글자 대문자로 작성할거임 / 
+# member section
+meLogin=com.shopping.controller.member.MemberLoginController
+meLogout=com.shopping.controller.member.MemberLogoutController
+meInsert=com.shopping.controller.member.MemberInsertController
+#meUpdate=com.shopping.controller.member.MemberUpdateController
+meDelete=com.shopping.controller.member.MemberDeleteController
+meList=com.shopping.controller.member.MemberListController
+#meIdCheck=com.shopping.controller.member.MemberIdCheckController
+meDetail=com.shopping.controller.member.MemberDetailController
+# board section
+#boLogin=com.shopping.controller.board.BoardLoginController
+#boLogout=com.shopping.controller.board.BoardLogoutController
+boInsert=com.shopping.controller.board.BoardInsertController
+boUpdate=com.shopping.controller.board.BoardUpdateController
+boDelete=com.shopping.controller.board.BoardDeleteController
+boList=com.shopping.controller.board.BoardListController
+#boIdCheck=com.shopping.controller.board.BoardIdCheckController
+boDetail=com.shopping.controller.board.BoardDetailController
+boReply=com.shopping.controller.board.BoardReplyController
+# product section
+#prLogin=com.shopping.controller.product.ProductLoginController
+#prLogout=com.shopping.controller.product.ProductLogoutController
+prInsert=com.shopping.controller.product.ProductInsertController
+prUpdate=com.shopping.controller.product.ProductUpdateController
+prDelete=com.shopping.controller.product.ProductDeleteController
+prList=com.shopping.controller.product.ProductListController
+#prIdCheck=com.shopping.controller.product.ProductIdCheckController
+prDetail=com.shopping.controller.product.ProductDetailController
+# comment section
+#cmLogin=com.shopping.controller.comment.CommentLoginController
+#cmLogout=com.shopping.controller.comment.CommentLogoutController
+cmInsert=com.shopping.controller.comment.CommentInsertController
+cmUpdate=com.shopping.controller.comment.CommentUpdateController
+cmDelete=com.shopping.controller.comment.CommentDeleteController
+cmList=com.shopping.controller.comment.CommentListController
+#cmIdCheck=com.shopping.controller.comment.CommentIdCheckController
+#cmDetail=com.shopping.controller.comment.CommentDetailController
+# mall section
+maInsert=com.shopping.controller.mall.MallInsertController
+maUpdate=com.shopping.controller.mall.MallUpdateController
+maDelete=com.shopping.controller.mall.MallDeleteController
+maList=com.shopping.controller.mall.MallListController
+maHistory=com.shopping.controller.mall.MallHistoryController
+maDetail=com.shopping.controller.mall.MallDetailController
+maCalculate=com.shopping.controller.mall.MallCalculateController
+# view section
+vwList=com.shopping.controller.view.ViewListController
+vwExam01=com.shopping.controller.view.View01Controller
+vwExam02=com.shopping.controller.view.View02Controller
+vwExam03=com.shopping.controller.view.View03Controller
+vwExam04=com.shopping.controller.view.View04Controller
+vwExam05=com.shopping.controller.view.View05Controller
